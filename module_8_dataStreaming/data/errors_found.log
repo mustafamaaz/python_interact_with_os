@@ -1,0 +1,77 @@
+July 31 00:13:52 mycomputername updater[43530]: ERROR Error running Python2.exe: Segmentation Fault (core dumped)
+July 31 00:33:31 mycomputername system[25588]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 00:37:48 mycomputername utility[21449]: ERROR The cake is a lie!
+July 31 00:44:50 mycomputername kernel[63793]: ERROR Failed process [13966]
+July 31 00:45:23 mycomputername cacheclient[55644]: ERROR Unable to download more RAM
+July 31 00:51:23 mycomputername cacheclient[85917]: ERROR Failed process [13966]
+July 31 01:40:38 mycomputername kernel[35287]: ERROR ID: 10t
+July 31 03:09:30 mycomputername kernel[40705]: ERROR The cake is a lie!
+July 31 03:29:34 mycomputername dhcpclient[69232]: ERROR Unable to download more RAM
+July 31 03:36:26 mycomputername dhcpclient[79731]: ERROR The cake is a lie!
+July 31 04:11:32 mycomputername CRON[51253]: ERROR: Failed to start CRON job due to script syntax error. Inform the CRON job owner!
+July 31 04:11:32 mycomputername jam_tag=psim[84082]: ERROR ID: 10t
+July 31 04:14:22 mycomputername utility[53225]: ERROR I am error
+July 31 04:31:00 mycomputername NetworkManager[23060]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 04:36:49 mycomputername dhcpclient[89091]: ERROR Failed process [13966]
+July 31 04:37:34 mycomputername cacheclient[63496]: ERROR Sorting a list
+July 31 05:00:28 mycomputername NetworkManager[76363]: ERROR The cake is a lie!
+July 31 05:10:52 mycomputername jam_tag=psim[26712]: ERROR Process failed
+July 31 05:14:16 mycomputername utility[91499]: ERROR Sorting a list
+July 31 05:32:16 mycomputername process[21939]: ERROR Failed process [13966]
+July 31 05:43:29 mycomputername dhcpclient[35484]: ERROR Encapsulating packets
+July 31 05:44:07 mycomputername cacheclient[97637]: ERROR Operation completed successfully
+July 31 05:58:25 mycomputername process[99181]: ERROR Process failed
+July 31 06:31:02 mycomputername jam_tag=psim[40033]: ERROR Syntax issue
+July 31 07:24:38 mycomputername jam_tag=psim[83107]: ERROR ID: 10t
+July 31 07:34:52 mycomputername updater[42267]: ERROR I am error
+July 31 08:14:45 mycomputername process[84233]: ERROR Out of ink
+July 31 08:21:11 mycomputername system[78476]: ERROR Error running Python2.exe: Segmentation Fault (core dumped)
+July 31 08:29:59 mycomputername utility[73121]: ERROR I am error
+July 31 08:39:13 mycomputername utility[78233]: ERROR The cake is a lie!
+July 31 08:55:07 mycomputername system[24562]: ERROR Process failed
+July 31 09:37:31 mycomputername updater[46513]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 09:45:20 mycomputername utility[95200]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 09:47:30 mycomputername system[61238]: ERROR I am error
+July 31 10:25:03 mycomputername utility[89273]: ERROR lp0 on fire
+July 31 10:41:32 mycomputername NetworkManager[70251]: ERROR Sorting a list
+July 31 10:53:36 mycomputername system[78903]: ERROR Encapsulating packets
+July 31 11:18:34 mycomputername process[32468]: ERROR 418: I'm a teapot
+July 31 11:19:56 mycomputername system[15816]: ERROR I am error
+July 31 11:20:11 mycomputername kernel[77339]: ERROR Out of ink
+July 31 11:27:52 mycomputername CRON[65812]: ERROR ID: 10t
+July 31 11:50:34 mycomputername CRON[51748]: ERROR ID: 10t
+July 31 12:00:29 mycomputername NetworkManager[96959]: ERROR Operation completed successfully
+July 31 12:04:22 mycomputername updater[51112]: ERROR lp0 on fire
+July 31 12:07:01 mycomputername updater[47209]: ERROR 418: I'm a teapot
+July 31 12:42:41 mycomputername system[38483]: ERROR AssertionError 'False' is not 'True'
+July 31 12:48:04 mycomputername system[68448]: ERROR lp0 on fire
+July 31 13:00:34 mycomputername system[62593]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 13:36:17 mycomputername CRON[53567]: ERROR You seriously weren't expecting to find anything useful in here, were you?
+July 31 13:39:39 mycomputername process[94615]: ERROR AssertionError 'False' is not 'True'
+July 31 14:34:36 mycomputername dhcpclient[37575]: ERROR 404 error not found
+July 31 15:23:54 mycomputername utility[20760]: ERROR lp0 on fire
+July 31 16:07:01 mycomputername process[11843]: ERROR Process failed
+July 31 16:20:37 mycomputername dhcpclient[36371]: ERROR Unable to download more RAM
+July 31 16:36:57 mycomputername system[27219]: ERROR Process failed
+July 31 16:43:19 mycomputername utility[31859]: ERROR Process failed
+July 31 17:25:11 mycomputername jam_tag=psim[70693]: ERROR Syntax issue
+July 31 17:55:16 mycomputername jam_tag=psim[58396]: ERROR 404 error not found
+July 31 18:03:28 mycomputername process[79703]: ERROR lp0 on fire
+July 31 18:04:46 mycomputername updater[79077]: ERROR Operation completed successfully
+July 31 18:51:04 mycomputername cacheclient[83250]: ERROR Sorting a list
+July 31 19:44:47 mycomputername system[50340]: ERROR lp0 on fire
+July 31 19:48:46 mycomputername CRON[88206]: ERROR Failed process [13966]
+July 31 19:56:47 mycomputername CRON[61924]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 20:02:26 mycomputername cacheclient[50070]: ERROR Encapsulating packets
+July 31 20:38:05 mycomputername kernel[30846]: ERROR AssertionError 'False' is not 'True'
+July 31 21:05:47 mycomputername utility[67348]: ERROR The cake is a lie!
+July 31 21:06:46 mycomputername kernel[80105]: ERROR lp0 on fire
+July 31 21:48:30 mycomputername kernel[33330]: ERROR Syntax issue
+July 31 22:05:31 mycomputername process[37921]: ERROR Process failed
+July 31 22:07:54 mycomputername cacheclient[12017]: ERROR Process failed
+July 31 22:22:34 mycomputername updater[78750]: ERROR ID: 10t
+July 31 22:41:00 mycomputername jam_tag=psim[40956]: ERROR The cake is a lie!
+July 31 23:15:22 mycomputername jam_tag=psim[75013]: ERROR Failed process [13966]
+July 31 23:17:05 mycomputername system[88316]: ERROR 418: I'm a teapot
+July 31 23:20:09 mycomputername system[42918]: ERROR Out of ink
+July 31 23:36:29 mycomputername updater[86053]: ERROR AssertionError 'False' is not 'True'

@@ -1,0 +1,3 @@
+first generate two csv file by running code.py 
+then ./csv_to_html.py error_message.csv ./error.html
+./csv_to_html.py user_statistics.csv ./user_stat.html

@@ -1,0 +1,2 @@
+  result = re.sub( r"\s([0-9]{3})-([0-9]{3})-([0-9]{4})",r"(\1) \2-\3 ",phone)
+in this expression we making groups in pattern classes like this ()-()-() this first paratheses means that it capture 3 number ,the pattern and display as \1 2nd parantheses capture 3 more number and present as \2 and 3rd () have 4 number as \3 
